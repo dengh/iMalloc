@@ -13,11 +13,11 @@ iMalloc is a library much like regular C malloc but with added features.
 		Reference count.
 		Automatic garbage collection.
 		
-		The library is developed for UU Solaris servers and may not work on other computers without adjustments to the source code.
+The library is developed for UU Solaris servers and may not work on other computers without adjustments to the source code.
 
-	You can find the source code, the test file and the makefile in the folder named "kod".
+You can find the source code, the test file and the makefile in the folder named "kod".
 	
-	Documentation can be found in the folder "Dokumentation". All documentation is in Swedish.
+Documentation can be found in the folder "Dokumentation". All documentation is in Swedish.
 	
 
 Makefile commands:
